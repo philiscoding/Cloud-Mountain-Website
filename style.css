@@ -1,0 +1,151 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+}
+
+h1{
+  font-size: 5rem;
+  font-weight: 300;
+  margin: 50px auto 0;
+  color: #64b2cd;
+}
+
+.soon{
+  color: #64b2cd;
+}
+
+h2{
+  font-size: 3rem;
+  color: #64b2cd;
+  font-weight: normal;
+}
+
+h3, a{
+  color: #64b2cd;
+}
+
+.top-container{
+  background-color: #d9eeec;
+  position: relative;
+  padding-top: 100px;
+  margin-bottom: 50px;
+
+}
+
+.top-cloud {
+  position: absolute;
+  right: 500px;
+  top: 80px;
+
+}
+
+.bottom-cloud{
+  position: absolute;
+  top: 350px;
+  left: 450px;
+}
+
+  .monk{
+    width: 15%;
+  }
+
+.hellop{
+  width: 25%;
+  margin: 0 auto;
+  line-height: 2;
+  font-weight: bold;
+  margin-bottom: 80px;
+}
+
+hr {
+  border-style: dotted none none;
+  color: lightgrey;
+  width: 5%;
+  border-width: 10px;
+  margin: 120px auto;
+
+}
+
+ .yinyang {
+  width: 25%;
+  margin-right: 30px;
+  float:left;
+}
+
+.zen{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.skill-row{
+  text-align: left;
+  line-height: 2;
+  width: 50%;
+  margin: 120px auto;
+  font-weight: bold;
+}
+
+.contacth3{
+  font-weight: bold;
+  margin-bottom: 40px;
+}
+
+.contactp{
+  font-weight: bold;
+  line-height: 2;
+}
+
+.button
+{
+  border: solid 1px;
+  color: white;
+  background-color: #64b2cd;
+  width: 140px;
+  padding: 15px;
+  margin: 0 auto;
+  text-align: center;
+  margin-bottom: 100px;
+  margin-top: 40px;
+}
+.button a{
+  color: white;
+  text-decoration: none;
+}
+
+.button:hover{
+  background-color: white;
+  color: #64b2cd;
+}
+
+a:hover{
+  color: #64b2cd;
+}
+
+.bottom-container{
+  background-color: #3c70a4;
+  height: 200px;
+
+}
+
+.footer-link{
+  text-decoration: none;
+  font-size: 1.5rem;
+  color: #d9eeec;
+  position: relative;
+  top: 50px;
+  padding: 50px;
+  margin: auto;
+
+}
+
+.footer-link:hover {
+  color: white;
+}
+
+.copyright{
+  color: white;
+  position: relative;
+  top: 75px;
+}
